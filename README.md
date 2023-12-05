@@ -1,8 +1,8 @@
- # Boletines-Primera-Evaluacion
+ # Boletines Programación
 
 ## Descripción
 
-¡Bienvenido al repositorio "BoletinesPrimeraEvaluacion"!
+¡Bienvenido al repositorio "Boletines Programación"!
 
 Aquí encontrarás un total de 18 boletines, cada uno abordando temas específicos relacionados con el contenido evaluado durante esta fase del curso.
 
