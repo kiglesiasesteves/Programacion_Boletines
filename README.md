@@ -11,7 +11,7 @@ Aquí encontrarás un total de 18 boletines, cada uno abordando temas específic
 - [**Boletin 2**](https://github.com/kiglesiasesteves/ProgramacionPrimeraEvaluacion/tree/main/Boletin02)
   - Ejercicios sobre operaciones matemáticas de geometría simples
     - [Ejercicio 1](Boletin02/boletin02_1/src/boletin2_1)
-    - [Ejercicio 2](Boletin02/bolentin02_2/src/bolentin2_2)
+    - [Ejercicio 2](Boletines/Boletin02/bolentin02_2/src/bolentin2_2)
     - [Ejercicio 3](Boletin02/boletin02_3/src/boletin2_3)
     - [Ejercicio 4](Boletin02/boletin02_4/src/boletin2_4)
     - [Ejercicio 5](Boletin02/boletin02_5/src/boletin2_5)
