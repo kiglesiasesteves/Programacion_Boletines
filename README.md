@@ -84,7 +84,8 @@ Aquí encontrarás un total de 18 boletines, cada uno abordando temas específic
   - Conversor de Temperaturas con Excepción.
 
 - [**Boletin 19**](Boletines/Boletin19)
-   -Trabajo con interfaces
+  
+  - Trabajo con interfaces
    (El diagrama se encuentra en el Readme.md del boletín)
 
 - [**Boletin 20**](Boletines/Boletin20)
