@@ -8,6 +8,8 @@ Aquí encontrarás un total de 18 boletines, cada uno abordando temas específic
 
 ## Estructura del Repositorio
 
+## Primera evaluación
+
 - [**Boletin 2**](Boletines/Boletin02)
   - Ejercicios sobre operaciones matemáticas de geometría simples
     - [Ejercicio 1](Boletines/Boletin02/boletin02_1/src/boletin2_1)
@@ -79,6 +81,7 @@ Aquí encontrarás un total de 18 boletines, cada uno abordando temas específic
   - Trabajo con herencias
     - [Ejercicio 1](Boletines/Boletin18/Boletin18.1/src)
     - [Ejercicio 2](Boletines/Boletin18/Boletin18.2)
+   ## Segunda evaluación
       
  - [**Boletin Transición**](Boletines/BoletinTransicion)
    - Conversor de Temperaturas con Excepción.
