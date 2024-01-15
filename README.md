@@ -79,6 +79,18 @@ Aquí encontrarás un total de 18 boletines, cada uno abordando temas específic
   - Trabajo con herencias
     - [Ejercicio 1](Boletines/Boletin18/Boletin18.1/src)
     - [Ejercicio 2](Boletines/Boletin18/Boletin18.2)
+      
+ - [**Boletin Transición**](Boletines/BoletinTransicion)
+  - Conversor de Temperaturas con Excepción.
 
+- [**Boletin 19**](Boletines/Boletin19)
+  -Trabajo con interfaces
+  -(El diagrama se encuentra en el Readme.md del boletín)
 
+  - [**Boletin 20**](Boletines/Boletin20)
+  - Trabajo con interfaces
+  - (Los diagramas se encuentran en el Readme.md del boletín)
+    - [Ejercicio 1](Boletines/Boletin20/Boletin20.1/src)
+    - [Ejercicio 2](Boletines/Boletin20/Boletin20.2/src)
+  
 
