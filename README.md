@@ -9,7 +9,7 @@
  
  Aquí encontrarás un total de 18 boletines, cada uno abordando temas específicos relacionados con el contenido evaluado durante el primer trimestre del curso.
  
- # [**Segunda Evaluación**](https://github.com/kiglesiasesteves/Programacion_Boletines/blob/0d482fa8da459e40903f38603fec49d9b02a9647/README.md?plain=1#L90))
+ # [**Segunda Evaluación**](https://github.com/kiglesiasesteves/Programacion_Boletines/blob/0d482fa8da459e40903f38603fec49d9b02a9647/README.md#segunda-evaluaci%C3%B3n-1)
 
 
 ## Estructura del Repositorio
