@@ -83,7 +83,7 @@ Aquí encontrarás un total de 18 boletines, cada uno abordando temas específic
     - [Ejercicio 2](Boletines/Boletin18/Boletin18.2)
    ## Segunda evaluación
       
- - [**Boletin Transición**](Boletines/BoletinTransicion)
+ - [**Boletin Transición**](Boletines/BoletinTransicion/src)
    - Conversor de Temperaturas con Excepción.
 
 - [**Boletin 19**](Boletines/Boletin19)
