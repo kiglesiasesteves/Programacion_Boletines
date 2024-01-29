@@ -101,7 +101,7 @@
   - Trabajo con interfaces
     (Los diagramas se encuentran en el Readme.md del boletín)
     
-- [**Boletin 21**](Boletines/Boletin20)
+- [**Boletin 21**](Boletines/Boletin21)
   - Trabajo con Arrays
     - [Ejercicio 1](Boletines/Boletin21/Boletin21.1)
     - [Ejercicio 2](Boletines/Boletin21/Boletin21.2)
