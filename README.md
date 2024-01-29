@@ -100,8 +100,6 @@
 - [**Boletin 20**](Boletines/Boletin20)
   - Trabajo con interfaces
     (Los diagramas se encuentran en el Readme.md del boletín)
-    - [Ejercicio 1](Boletines/Boletin20/Boletin 20.1)
-    - [Ejercicio 2](Boletines/Boletin20/Boletin20.2/src)
     
 - [**Boletin 21**](Boletines/Boletin20)
   - Trabajo con Arrays
