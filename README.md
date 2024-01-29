@@ -103,14 +103,14 @@
     - [Ejercicio 1](Boletines/Boletin20/Boletin20.1/src)
     - [Ejercicio 2](Boletines/Boletin20/Boletin20.2/src)
     
-  - [**Boletin 21**](Boletines/Boletin20)
+- [**Boletin 21**](Boletines/Boletin20)
   - Trabajo con Arrays
     - [Ejercicio 1](Boletines/Boletin21/Boletin21.1)
     - [Ejercicio 2](Boletines/Boletin21/Boletin21.2)
     - [Ejercicio 3](Boletines/Boletin21/Boletin21.3)
      - [Ejercicio 4](Boletines/Boletin21/Boletin21.4)
    
-    - [**Boletin 23**](Boletines/Boletin20)
+- [**Boletin 23**](Boletines/Boletin23)
   - Trabajo con Arrays (Boletín Repaso Array)
     - [Ejercicio 1_2](Boletines/Boletin23/Boletin23.1_2)
     - [Ejercicio 3_4_5_6](Boletines/Boletin23/Boletin23.3_4_5_6)
