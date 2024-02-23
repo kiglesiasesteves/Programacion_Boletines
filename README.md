@@ -108,7 +108,7 @@
     - [Ejercicio 3](Boletines/Boletin21/Boletin21.3)
      - [Ejercicio 4](Boletines/Boletin21/Boletin21.4)
    
-  -[**Boletin 22**](Boletines/Boletin22F/src)
+- [**Boletin 22**](Boletines/Boletin22F/src)
    - Ejercicio de creación de tablas de equipos de futbol con Arrays.
    
 - [**Boletin 23**](Boletines/Boletin23/src)
