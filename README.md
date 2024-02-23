@@ -116,6 +116,7 @@
 
    - [**Boletin 24**](Boletines/Boletin24/src)
   - Trabajo con Arrays Biblioteca
+  - (EL diagrama de clases se encuentra en el Readme del boletín)
    
 - [**Boletin RepasoArray**](Boletines/BoletinRepasoArrays)
   - Trabajo con Arrays (Boletín Repaso Array)
