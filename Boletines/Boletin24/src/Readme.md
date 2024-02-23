@@ -1,0 +1,1 @@
+![diagramabol24.png](..%2Fimg%2Fdiagramabol24.png)
