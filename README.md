@@ -109,15 +109,19 @@
      - [Ejercicio 4](Boletines/Boletin21/Boletin21.4)
    
   -[**Boletin 22**](Boletines/Boletin22F/src)
-  Ejercicio de creación de tablas de equipos de futbol con Arrays.
+ - Ejercicio de creación de tablas de equipos de futbol con Arrays.
    
 - [**Boletin 23**](Boletines/Boletin23/src)
   - Trabajo con Arrays 
 
    - [**Boletin 24**](Boletines/Boletin24/src)
   - Trabajo con Arrays Biblioteca
-  - (EL diagrama de clases se encuentra en el Readme del boletín)
+    -(EL diagrama de clases se encuentra en el Readme del boletín)
+    
    
+   - [**Boletin 26**](Boletines/Boletin26/src)
+ - Trabajos con listas. Ejercios genéricos. 
+    
 - [**Boletin RepasoArray**](Boletines/BoletinRepasoArrays)
   - Trabajo con Arrays (Boletín Repaso Array)
     - [Ejercicio 1_2](Boletines/BoletinRepasoArrays/BoletinArrays.1_2)
