@@ -120,10 +120,15 @@
     (EL diagrama de clases se encuentra en el Readme del boletín)
 
 - [**Boletin 26**](Boletines/Boletin26/src)
-  - Trabajos con listas. Ejercios genéricos. 
+  - Trabajos con listas. Ejercios genéricos.
+    
+ - [**Boletin 27**](Boletines/Boletin27/src)
+  - Trabajos con listas.
+   
     
 - [**Boletin RepasoArray**](Boletines/BoletinRepasoArrays)
   - Trabajo con Arrays (Boletín Repaso Array)
     - [Ejercicio 1_2](Boletines/BoletinRepasoArrays/BoletinArrays.1_2)
     - [Ejercicio 3_4_5_6](Boletines/BoletinRepasoArrays/BoletinArrays.3_4_5_6)
+    - 
 
