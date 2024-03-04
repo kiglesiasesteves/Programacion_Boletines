@@ -51,7 +51,7 @@ public class Libreria {
                 libro.setPrecio(novoPrecio);
                 JOptionPane.showMessageDialog(null, "Precio modificado correctamente");
                 encontrado = true;
-                break; // Terminar el bucle una vez que se haya modificado el precio
+                break;
             }
         }
         if (!encontrado) {
